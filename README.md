@@ -1,4 +1,4 @@
-# 👋 Hi,
+# 👋 Hi
 
 🎯 QA Automation Engineer focused on building reliable and maintainable test frameworks, with strong networking foundation (CCNA).
 
