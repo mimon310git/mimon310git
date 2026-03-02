@@ -1,37 +1,37 @@
-# 👋 Hi, I'm Simon
+# 👋 Hi,
 
-🎯 QA Automation Engineer with networking background (CCNA) and strong technical foundation.
+🎯 QA Automation Engineer focused on building reliable and maintainable test frameworks, with strong networking foundation (CCNA).
 
 ---
 
 ## 🧪 About Me
 
 - 🔍 Specializing in **Playwright (E2E + API testing)**
-- 🏗 Building structured test frameworks using **Page Object Model**
+- 🏗 Designing structured automation frameworks using **Page Object Model**
 - 🔁 Integrating automated tests into **CI/CD pipelines (GitHub Actions)**
 - 🌐 Background in **Networking (CCNA) and Windows Server administration**
-
-My networking background helps me better understand infrastructure, environments, and API communication.
+- 🧠 Strong technical understanding of infrastructure, environments, and API communication
 
 ---
 
 ## 🛠 Tech Stack
 
-### Testing
+### Testing & Automation
 - Playwright
 - API Testing (REST)
 - Page Object Model (POM)
 - Smoke / Regression / Negative testing
+- Test reporting & CI integration
 
 ### Programming
 - JavaScript
-- SQL (basics)
+- SQL (basics, relational design, joins, aggregations)
 - C (basics)
 
 ### Infrastructure & Networking
 - CCNA (Cisco Networking Academy)
 - Windows Server administration (basics)
-- Basic networking troubleshooting
+- Network troubleshooting fundamentals
 
 ### CI/CD & Tools
 - Git
@@ -44,21 +44,29 @@ My networking background helps me better understand infrastructure, environments
 ## 🚀 Featured Projects
 
 ### 🔹 Demoblaze Playwright Test Suite
-E2E automation project covering authentication, cart, and order flows with CI integration.
+End-to-end automation project covering authentication, cart management, and order flows with CI integration.
 
 ➡️ https://github.com/mimon310git/Demoblaze-Tests
 
 ---
 
+### 🔹 Bart QA Automation Project
+Structured Playwright automation project combining UI and API testing.  
+Implements Page Object Model, positive and negative scenarios, environment configuration, and CI workflow execution.
+
+➡️ https://github.com/mimon310git/Bart-QA-assignment
+
+---
+
 ### 🔹 nopCommerce Automation Suite
-Structured Playwright framework with positive and negative scenarios and reporting.
+Automation framework built with Playwright focusing on structured test organization and reporting.
 
 ➡️ https://github.com/mimon310git/nopCommerce-demo-Test-PW
 
 ---
 
 ### 🔹 Playwright API Testing
-API automation project using REST endpoints and response validation.
+API-focused automation project validating REST endpoints, response structures, and data integrity.
 
 ➡️ https://github.com/mimon310git/API-playwright
 
@@ -66,11 +74,11 @@ API automation project using REST endpoints and response validation.
 
 ## 📈 Currently Improving
 
-- Advanced Playwright architecture
-- Test reliability & maintainability
+- Advanced Playwright architecture patterns
+- SQL and database design
 - Backend fundamentals (Node.js)
-- Clean code principles
+- Writing clean, maintainable, and scalable test code
 
 ---
 
-⭐ Combining networking knowledge with QA automation.
+⭐ Combining networking knowledge with QA automation to better understand full system behavior.
