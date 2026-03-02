@@ -76,7 +76,6 @@ API-focused automation project validating REST endpoints, response structures, a
 
 - Advanced Playwright architecture patterns
 - SQL and database design
-- Backend fundamentals (Node.js)
 - Writing clean, maintainable, and scalable test code
 
 ---
