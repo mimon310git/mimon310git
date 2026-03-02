@@ -18,15 +18,11 @@
 
 ### Testing & Automation
 - Playwright
-- API Testing (REST)
+- API Testing
 - Page Object Model (POM)
 - Smoke / Regression / Negative testing
 - Test reporting & CI integration
 
-### Programming
-- JavaScript
-- SQL (basics, relational design, joins, aggregations)
-- C (basics)
 
 ### Infrastructure & Networking
 - CCNA (Cisco Networking Academy)
