@@ -10,7 +10,6 @@
 - 🏗 Building structured test frameworks using **Page Object Model**
 - 🔁 Integrating automated tests into **CI/CD pipelines (GitHub Actions)**
 - 🌐 Background in **Networking (CCNA) and Windows Server administration**
-- 🎯 Goal: Grow from QA Automation towards backend development
 
 My networking background helps me better understand infrastructure, environments, and API communication.
 
