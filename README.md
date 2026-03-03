@@ -48,7 +48,7 @@ End-to-end automation project covering authentication, cart management, and orde
 
 ### 🔹 Bart QA Automation Project
 Structured Playwright automation project combining UI and API testing.  
-Implements Page Object Model, positive and negative scenarios, environment configuration, and CI workflow execution.
+Implements Page Object Model, positive and negative scenarios, environment configuration.
 
 ➡️ https://github.com/mimon310git/Bart-QA-assignment
 
