@@ -9,8 +9,7 @@ Junior IT enthusiast focused on QA automation, networking, and infrastructure fu
 - I build UI and API automation projects using Playwright and JavaScript  
 - I focus on writing structured and maintainable test code (Page Object Model)  
 - I am learning how automated testing fits into CI/CD workflows (GitHub Actions)  
-- I am interested in networking, infrastructure, and technical troubleshooting  
-- I aim to understand how applications behave across UI, API, and system levels  
+- I am interested in networking, infrastructure, and technical troubleshooting   
 
 ---
 
