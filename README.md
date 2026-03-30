@@ -1,6 +1,6 @@
 # Hi,
 
-Junior QA Engineer with a focus on Playwright, API testing, and a strong interest in networking and infrastructure.
+Junior IT enthusiast focused on QA automation, networking, and infrastructure fundamentals.
 
 ---
 
@@ -89,4 +89,4 @@ Project focused on analyzing domain configuration (DNS, SSL, redirects)
 
 ---
 
-⭐ Currently looking for an opportunity as a QA tester or junior networking/IT support role, where I can grow and gain practical experience.
+⭐ Currently looking for an opportunity in junior IT, networking, system administration, or QA automation, where I can grow and gain practical experience.
