@@ -1,4 +1,4 @@
-# Hi, I'm Simon
+# Hi,
 
 Junior IT focused on QA testing, networking, system administration, infrastructure, and IT support.
 
