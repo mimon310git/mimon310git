@@ -1,91 +1,164 @@
 # Hi,
 
-Junior IT enthusiast focused on QA automation, networking, and infrastructure fundamentals.
+Junior IT focused on networking, system administration, infrastructure, IT support, and test automation.
+
+I build hands-on lab projects to practice real-world networking, Windows/Linux administration, monitoring, troubleshooting, service validation, and technical problem solving.
 
 ---
 
 ## About Me
 
-- I build UI and API automation projects using Playwright and JavaScript  
-- I focus on writing structured and maintainable test code (Page Object Model)  
-- I am learning how automated testing fits into CI/CD workflows (GitHub Actions)  
-- I am interested in networking, infrastructure, and technical troubleshooting   
+I am working toward junior roles in networking, system administration, IT support, and infrastructure.
+
+My main focus is building practical projects around:
+
+- networking fundamentals
+- Windows and Linux administration
+- monitoring and troubleshooting
+- infrastructure labs and service validation
+- technical support mindset
+- test automation as a supporting skill
+
+I enjoy understanding how systems work, why services fail, and how to troubleshoot and validate them in a structured way.
 
 ---
 
-## Tech Stack
+## Core Skills
+
+### Networking
+- Static routing
+- NAT
+- VPNs: WireGuard and IPsec
+- DNS and DHCP
+- SSH and port forwarding
+- Connectivity troubleshooting
+- Virtual lab networking
+
+### System Administration
+- Windows Server basics
+- Active Directory fundamentals
+- DNS and DHCP configuration
+- Ubuntu Server administration
+- Nginx setup
+- UFW firewall basics
+- Service validation and troubleshooting
+
+### Monitoring & Infrastructure
+- Zabbix monitoring
+- Docker-based lab services
+- Incident simulation
+- Infrastructure health checks
+- SSL / DNS / HTTP validation
+- Basic documentation and lab design
 
 ### Testing & Automation
-- Playwright  
-- JavaScript  
-- API Testing (REST)  
-- Page Object Model (POM)  
-- End-to-End testing  
-
-### Networking & Infrastructure
-- CCNA fundamentals  
-- VPN basics (WireGuard, IPsec)  
-- Routing & NAT  
-- VirtualBox labs  
+- Playwright with JavaScript
+- UI and API testing
+- Page Object Model
+- Structured test design
+- Validation of workflows and service behavior
 
 ### Tools
-- Git  
-- GitHub Actions  
-- Node.js  
-- VS Code  
+- Git & GitHub
+- GitHub Actions
+- Docker
+- VirtualBox
+- VS Code
+- Node.js
+- Python basics
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🔹 [Demoblaze Playwright Test Suite](https://github.com/mimon310git/Demoblaze-Tests)
-End-to-end UI automation covering:
-- Authentication (login/logout)  
-- Cart and purchase flow  
-- UI test structure using Page Object Model  
+### [Windows-Linux Infra Lab](https://github.com/mimon310git/windows-linux-infra-lab)
+Two-VM infrastructure lab focused on Windows Server and Ubuntu Server administration.
 
----
-
-### 🔹 [API Testing with Playwright](https://github.com/mimon310git/API-playwright)
-API automation covering:
-- CRUD operations  
-- Response validation  
-- Negative scenarios  
-- Status code checks  
+**Highlights:**
+- Windows Server with AD, DNS, and DHCP
+- Ubuntu Server with Nginx, SSH, and UFW
+- Internal networking and service communication
+- Practical troubleshooting and service validation
 
 ---
 
-### 🔹 [Hybrid VPN Lab (WireGuard & IPsec)](https://github.com/mimon310git/Hybrid-VPN-Lab)
-Networking lab built in VirtualBox:
-- WireGuard & IPsec VPN  
-- Routing and NAT configuration  
-- Troubleshooting connectivity  
+### [Hybrid VPN Lab](https://github.com/mimon310git/Hybrid-VPN-Lab)
+Personal networking lab built in VirtualBox to practice secure connectivity and routing.
 
-👉 Focus: understanding real network behavior  
-
----
-
-### 🔹 [QA Assignment (UI + API Testing)](https://github.com/mimon310git/Bart-QA-assignment)
-QA project combining UI automation, API testing, and structured test scenarios  
+**Highlights:**
+- Static routing
+- NAT
+- SSH port forwarding
+- WireGuard VPN
+- strongSwan IPsec
+- Network troubleshooting between lab systems
 
 ---
 
-## Additional Project
+### [Zabbix Incident Lab](https://github.com/mimon310git/Zabbix-incident-lab)
+Monitoring lab focused on visibility, outages, and incident simulation.
 
-### 🔹 SSL DNS Domain Health Analyzer
-Project focused on analyzing domain configuration (DNS, SSL, redirects)  
-
-👉 Built as a learning project to better understand how web infrastructure works  
-
----
-
-## Currently Improving
-
-- Advanced Playwright test design  
-- API testing practices  
-- SQL basics  
-- Networking fundamentals  
+**Highlights:**
+- Zabbix deployment with Docker on Ubuntu Server
+- Monitoring of multiple lab systems
+- Simulated incidents and service failures
+- Troubleshooting and validation of monitored services
 
 ---
 
-⭐ Currently looking for an opportunity in junior IT, networking, system administration, or QA automation, where I can grow and gain practical experience.
+### [SSL-DNS-DomainHealth](https://github.com/mimon310git/SSL-DNS-DomainHealth)
+Infrastructure-style utility for checking domain and service health.
+
+**Highlights:**
+- SSL / TLS checks
+- DNS validation
+- Redirect checks
+- HTTP endpoint checks
+- Report generation
+- Useful for infrastructure visibility and service validation
+
+---
+
+## Testing Projects
+
+I also maintain testing and automation projects that support my technical skill set and show structured validation work.
+
+### [Demoblaze-Tests](https://github.com/mimon310git/Demoblaze-Tests)
+End-to-end UI automation project using Playwright and JavaScript.
+
+### [Bart-QA-assignment](https://github.com/mimon310git/Bart-QA-assignment)
+QA project combining UI automation, API testing, and structured test documentation.
+
+These projects help demonstrate:
+- structured thinking
+- attention to detail
+- repeatable validation
+- automation mindset
+- clear test organization
+
+---
+
+## What I Am Improving
+
+I am currently improving my skills in:
+
+- networking fundamentals in more depth
+- Linux administration
+- monitoring and observability
+- troubleshooting methodology
+- infrastructure design thinking
+- automation and validation practices
+
+---
+
+## Career Goal
+
+I am looking for an opportunity where I can grow in networking, system administration, IT support, or infrastructure, while also using automation and structured troubleshooting as added strengths.
+
+---
+
+## Contact
+
+- GitHub: [mimon310git](https://github.com/mimon310git)
+
+Thanks for visiting my profile.
