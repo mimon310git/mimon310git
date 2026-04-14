@@ -1,31 +1,35 @@
-# Hi,
+# Hi, I'm Simon
 
-Junior IT focused on networking, system administration, infrastructure, IT support, and test automation.
+Junior IT focused on QA testing, networking, system administration, infrastructure, and IT support.
 
-I build hands-on lab projects to practice real-world networking, Windows/Linux administration, monitoring, troubleshooting, service validation, and technical problem solving.
+I build hands-on lab projects to develop practical skills in UI/API testing, networking, Windows and Linux administration, monitoring, troubleshooting, and service validation.
 
 ---
 
 ## About Me
 
-I am working toward junior roles in networking, system administration, IT support, and infrastructure.
+I am interested in junior opportunities across QA testing, networking, system administration, infrastructure, and IT support.
 
-My main focus is building practical projects around:
+My goal is to build practical, real-world skills through hands-on projects that combine testing, technical troubleshooting, and infrastructure-focused lab work.
 
-- networking fundamentals
-- Windows and Linux administration
-- monitoring and troubleshooting
-- infrastructure labs and service validation
-- technical support mindset
-- test automation as a supporting skill
-
-I enjoy understanding how systems work, why services fail, and how to troubleshoot and validate them in a structured way.
+I enjoy working on both sides:
+- validating systems through structured testing
+- understanding how infrastructure and services work underneath
 
 ---
 
 ## Core Skills
 
-### Networking
+### QA Testing
+- UI testing
+- API testing
+- Playwright with JavaScript
+- Structured test design
+- Page Object Model
+- Workflow validation
+- Basic bug reporting and test documentation
+
+### Networking & Infrastructure
 - Static routing
 - NAT
 - VPNs: WireGuard and IPsec
@@ -43,25 +47,11 @@ I enjoy understanding how systems work, why services fail, and how to troublesho
 - UFW firewall basics
 - Service validation and troubleshooting
 
-### Monitoring & Infrastructure
+### Monitoring & Tools
 - Zabbix monitoring
-- Docker-based lab services
-- Incident simulation
-- Infrastructure health checks
-- SSL / DNS / HTTP validation
-- Basic documentation and lab design
-
-### Testing & Automation
-- Playwright with JavaScript
-- UI and API testing
-- Page Object Model
-- Structured test design
-- Validation of workflows and service behavior
-
-### Tools
+- Docker
 - Git & GitHub
 - GitHub Actions
-- Docker
 - VirtualBox
 - VS Code
 - Node.js
@@ -69,7 +59,7 @@ I enjoy understanding how systems work, why services fail, and how to troublesho
 
 ---
 
-## Featured Projects
+## Featured Infrastructure & Networking Projects
 
 ### [Windows-Linux Infra Lab](https://github.com/mimon310git/windows-linux-infra-lab)
 Two-VM infrastructure lab focused on Windows Server and Ubuntu Server administration.
@@ -115,26 +105,31 @@ Infrastructure-style utility for checking domain and service health.
 - Redirect checks
 - HTTP endpoint checks
 - Report generation
-- Useful for infrastructure visibility and service validation
+- Service visibility and validation
 
 ---
 
-## Testing Projects
-
-I also maintain testing and automation projects that support my technical skill set and show structured validation work.
+## Featured Testing Projects
 
 ### [Demoblaze-Tests](https://github.com/mimon310git/Demoblaze-Tests)
 End-to-end UI automation project using Playwright and JavaScript.
 
+**Highlights:**
+- UI automation
+- Structured test scenarios
+- Reusable test organization
+- End-to-end workflow validation
+
+---
+
 ### [Bart-QA-assignment](https://github.com/mimon310git/Bart-QA-assignment)
 QA project combining UI automation, API testing, and structured test documentation.
 
-These projects help demonstrate:
-- structured thinking
-- attention to detail
-- repeatable validation
-- automation mindset
-- clear test organization
+**Highlights:**
+- UI and API validation
+- Combined testing approach
+- Structured project organization
+- Clear testing workflow
 
 ---
 
@@ -142,17 +137,17 @@ These projects help demonstrate:
 
 I am currently improving my skills in:
 
+- QA testing and automation practices
 - networking fundamentals in more depth
 - Linux administration
 - monitoring and observability
 - troubleshooting methodology
 - infrastructure design thinking
-- automation and validation practices
 
 ---
 
 ## Career Goal
 
-I am looking for an opportunity where I can grow in networking, system administration, IT support, or infrastructure, while also using automation and structured troubleshooting as added strengths.
+I am looking for an opportunity where I can continue growing in QA testing, networking, system administration, infrastructure, or IT support through practical work, troubleshooting, and continuous learning.
 
 ---
