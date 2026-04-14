@@ -156,9 +156,3 @@ I am currently improving my skills in:
 I am looking for an opportunity where I can grow in networking, system administration, IT support, or infrastructure, while also using automation and structured troubleshooting as added strengths.
 
 ---
-
-## Contact
-
-- GitHub: [mimon310git](https://github.com/mimon310git)
-
-Thanks for visiting my profile.
